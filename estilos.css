@@ -159,6 +159,9 @@
                 
                 }
 
+
+        
+
                 .textosociales{
 
                     text-align: justify;
@@ -170,6 +173,9 @@
                     
                     
                     }
+
+                
+
                     
             
 
@@ -180,6 +186,7 @@
             text-align: justify;
             
             color: rgb(235, 219, 219);
+            font-size: 20px;
             
              
             
@@ -215,7 +222,7 @@
                     
                     color: azure;
                     
-                    font-size: 17px;
+                    font-size: 20px;
 
                 }    
 
@@ -225,7 +232,7 @@
                     
                     color: azure;
                     
-                    font-size: 17px;
+                    font-size: 20px;
 
                 }    
 
@@ -252,6 +259,47 @@
                 
                     
                     }
+
+                    .textoingles{
+        
+                        text-align: justify;
+                        
+                        color: azure;
+                        
+                        font-size: 20px;
+                    }    
+
+                    .imageningles{
+        
+         
+        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+
+                        background-image: url(Virus.avif)
+                
+                        
+                        
+                    
+                    
+                         
+                    
+                        
+                        }
+    
+                    
+    
+
+                    
 
 
                     
