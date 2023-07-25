@@ -124,9 +124,20 @@
         
             text-align: justify;
             
-            color: azure;
+            color: rgb(255, 255, 255);
             
-            font-size: 20px;
+            font-size: 25px;
+
+            top: 210px;
+
+            
+      
+
+        
+        
+        
+            
+            
             
             
             
@@ -137,16 +148,16 @@
          
         
                 background-repeat: no-repeat;
-                
-                float:left;
+            
+                float:right;
                 
                 height: 200px;
                 
                 width: 260px;
                 
-                margin-left: 5px;
+                margin-left: 20px;
                 
-                margin-right:5px;
+            margin: 20px;
                 
                 background-image: url(Colonias.jpg)
                 
@@ -233,6 +244,7 @@
                 
                     
                     }
+
 
                     
                     
