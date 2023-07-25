@@ -112,7 +112,7 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(3, 0, 3);
         
         font-size: 25px;
 
@@ -169,9 +169,9 @@
 
                     text-align: justify;
                     
-                    color: rgb(253, 255, 255);
+                    color: rgb(0, 0, 0);
                     
-                    font-size: 20px;
+                    font-size: 25px;
                     
                     
                     
@@ -190,8 +190,8 @@
             
             text-align: justify;
             
-            color: rgb(235, 219, 219);
-            font-size: 20px;
+            color: rgb(0, 0, 0);
+            font-size: 25px;
             
              
             
@@ -225,9 +225,9 @@
         
                     text-align: justify;
                     
-                    color: azure;
+                    color: rgb(0, 0, 0);
                     
-                    font-size: 20px;
+                    font-size: 25px;
 
                 }    
 
@@ -235,9 +235,9 @@
         
                     text-align: justify;
                     
-                    color: azure;
+                    color: rgb(0, 14, 14);
                     
-                    font-size: 20px;
+                    font-size: 25px;
 
                 }    
 
@@ -269,9 +269,9 @@
         
                         text-align: justify;
                         
-                        color: azure;
+                        color: rgb(0, 0, 0);
                         
-                        font-size: 20px;
+                        font-size: 25px;
                     }    
 
                     .imageningles{
