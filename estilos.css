@@ -16,7 +16,7 @@
     }
     .fondotecno{
     
-        background-image: url("lake-g848206921_1280.jpg")
+        background-image: url("hd-wallpaper-gdc49a859b_1280.jpg")
         
         }
         
@@ -119,5 +119,139 @@
         
         
         }
+
+        .textosociales{
         
+            text-align: justify;
+            
+            color: azure;
+            
+            font-size: 20px;
+            
+            
+            
+            }
+
+            .imagensociales{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(Colonias.jpg)
+                
+                }
+
+            
+
+            .textomate{
+            
+            font-size: 18px;
+            
+            text-align: justify;
+            
+            color: rgb(235, 219, 219);
+            
+             
+            
+            }    
+            
+            .Imagenbiolo{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(Imagenbiolo.jpg)
+            
+            
+                 
+            
+                
+                }
+
+                .textobiolo{
+        
+                    text-align: justify;
+                    
+                    color: azure;
+                    
+                    font-size: 17px;
+
+                }    
+
+                .textoreligion{
+        
+                    text-align: justify;
+                    
+                    color: azure;
+                    
+                    font-size: 17px;
+
+                }    
+
+                .imagenreli{
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(Hinduismo.jpg)
+                
+                
+                     
+                
+                    
+                    }
+
+                    
+                    
+                    
+            
+                
+
+            
+                    
+                    
+            
+                 
+
+                
+
+
     
+      
+  
+      
+
+
