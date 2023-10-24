@@ -117,6 +117,8 @@
         font-size: 25px;
 
 
+
+
     
         
         
@@ -312,6 +314,55 @@
                     
                         
                         }
+                    
+                        .textomate3{
+                            font-size: 18px;
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+
+                        }     
+                        
+                    .imagenmate3{
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+
+                        background-image: url(imagen2mate.png)
+
+                
+                        
+
+                    }
+                    .imagenmate{
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+
+                        background-image: url(imagenmate4.png)
+
+                    }
+
+    
+                    
     
                     
     
